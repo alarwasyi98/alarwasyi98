@@ -41,4 +41,4 @@ I'm a passionate Web Developer in Jakarta, Indonesia and Content Creator on [Ins
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![alarwasyi98's github stats](https://github-readme-stats.vercel.app/api?username=alarwasyi98&count_private=true&theme=tokyonight&hide=contribs,prs)
