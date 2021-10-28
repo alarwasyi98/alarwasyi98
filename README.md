@@ -1,26 +1,51 @@
-<h1> Hi there 👋, I'm alarwasayi98</h1>
-<h3> A passionate frontend developer from Jakarta, Indonesia.</h3>
+## Hi I'm alarwasyi98 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
+I'm alarwasyi98 aka Abdul Hakim Al-Arwasyi. The reason why i'm using '98' as my username is that i born in that year. 
+I'm Passionate Web Developer in Jakarta, Indonesia and Content Creator on [Instagram](https://instagram.com/alarwasyi98). I Spend most of time to learn about coding and design.
+
+:mailbox: Let's Connect!
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alarwasyi98)](https://twitter.com/alarwasyi98) [![Mail Badge](https://img.shields.io/badge/-YouTube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCY1JnUfq3WyIei-_EcAvT5g) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hakim/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/alarwasyi98) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:alarwasyi98@gmail.com)
+
+<!-- TODO: Add last video link -->
+
+- 🔭 I’m currently working at @ppululilmijkt
+- :computer: Still learning 'bout coding
+- 🤔 I’m looking for help with Outstanding Instagram Content ideas.
+- 📫 How to reach me: alarwasyi98@gmail.com.
+- 😄 Pronouns: alarwasyi.com.
+- ⚡ Fun fact: I play games and love to playing guitar.
+
+### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+### Often work on
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial]
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascripttutorial]
+
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<br />
+<br />
+
+#### Bizness
+- :paperclip: [My Resume/CV](https://github.com/alarwasyi98/alarwasyi98)
+- :email: ipenywis@gmail.com
 
 
-- 🔭 I’m currently working on **my own portfolio website**
+#### Profile Visits 
 
-- 🌱 I’m currently learning **about UI/UX Design, UX Research, and Website Development.**
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
-- ⚡ Fun fact **I love to draw and play guitar**
+#### Github Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/alarwasyi98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alarwasyi98" height="30" width="40" /></a>
-<a href="https://twitter.com/alarwasyi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alarwasyi98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul hakim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul hakim" height="30" width="40" /></a>
-<a href="https://fb.com/alarwasyi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alarwasyi98" height="30" width="40" /></a>
-<a href="https://instagram.com/alarwasyi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alarwasyi98" height="30" width="40" /></a>
-<a href="https://dribbble.com/alarwasyi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alarwasyi98" height="30" width="40" /></a>
-<a href="https://www.behance.net/alarwasyi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alarwasyi98" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alarwasyi98&label=Visitors&color=0e75b6&style=flat-square" alt="alarwasyi98" /> </p>
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
