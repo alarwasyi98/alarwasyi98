@@ -13,7 +13,6 @@ I'm a passionate Web Developer in Jakarta, Indonesia and Content Creator on [Ins
 - :computer: Still learning 'bout coding
 - 🤔 I’m looking for help with Outstanding Instagram Content ideas.
 - 📫 How to reach me: alarwasyi98@gmail.com.
-- 😄 Pronouns: alarwasyi.com.
 - ⚡ Fun fact: I play games and love to playing guitar.
 
 ### Top Technologies:
@@ -24,8 +23,7 @@ I'm a passionate Web Developer in Jakarta, Indonesia and Content Creator on [Ins
 
 ### Still Learn About:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <a/> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <a/>  <img align="left" alt="CSS" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png /> <a/> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <a/> <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> <a/> <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <a/> <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <a/>  <img align="left" alt="CSS" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png /> <a/> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
 <br />
@@ -37,7 +35,7 @@ I'm a passionate Web Developer in Jakarta, Indonesia and Content Creator on [Ins
 
 #### Your Visitors Number 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alarwasyi98.alarwasyi98)
 
 #### Github Stats
 
