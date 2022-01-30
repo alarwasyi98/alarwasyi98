@@ -15,7 +15,7 @@ I'm a passionate Web Developer based in Jakarta, Indonesia and Content Creator o
 - 📫 How to reach me: alarwasyi98@gmail.com.
 - ⚡ Fun fact: I play games and love to playing guitar.
 
-### Top Technologies:
+### Untouched Technologies:
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
