@@ -14,9 +14,3 @@ I'm a passionate Web Developer based in Jakarta, Indonesia and Content Creator o
 - 🤔 I’m looking for help with Outstanding Instagram Content ideas.
 - 📫 How to reach me: alarwasyi98@gmail.com.
 - ⚡ Fun fact: I play games and love to playing guitar.
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alarwasyi98.alarwasyi98)
-
-#### Github Stats
-
-![alarwasyi98's github stats](https://github-readme-stats.vercel.app/api?username=alarwasyi98&count_private=true&theme=tokyonight&hide=contribs,prs)
