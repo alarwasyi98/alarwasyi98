@@ -9,51 +9,17 @@ I believe in the power of technology to transform lives and make the world a bet
 - 🧑‍🏫 I'm basically a Teacher that learn to code.
 - 🏃 Pursuing to switch my career to be a front-end developer
 - ⚡ Fun fact: I play games and love to playing guitar.
+  
+[![](https://visitcount.itsvg.in/api?id=alarwasyi98&label=Profile%20Views&color=2&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
 ##
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d2014f958c39fd1f8043bc?variant=dark&roadmaps=frontend%2Cdesign-system)](https://roadmap.sh)
-<br>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="35" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-</div>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="35" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="35" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="35" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
-</div>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,py,gitlab,github,git,bootstrap,tailwind,next,laravel,cloudflare,figma,mui,ai,ps&theme=dark&perline=9" />
+</a>
 
 ###
 
@@ -91,4 +57,4 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=alarwasyi98&label=Profile%20Views&color=2&icon=8&pretty=true)](https://visitcount.itsvg.in)
+
