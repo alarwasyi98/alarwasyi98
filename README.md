@@ -1,6 +1,6 @@
 ## Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, Folks! I'm Abdul Hakim
 
-A passionate self-taught developer and explorer of the digital world. I like to read and learn new things, especially about Web Development and UI/UX Design then applying them to my work.
+A passionate self-taught a.k.a very beginning to web development and explorer of the digital world. I like to read and learn new things, especially about Web Development and UI/UX Design then applying them to my work.
 I believe in the power of technology to transform lives and make the world a better place.
 
 ### Facts, Stacks & Stats
