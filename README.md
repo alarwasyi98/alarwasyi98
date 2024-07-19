@@ -5,8 +5,8 @@
 
 ![State-Badge](https://img.shields.io/badge/state-newbs-blue?style=flat-square)
 [![LinkedIn-Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white 'Contact me on LinkedIn')](https://www.linkedin.com/in/alarwasyi98/)
-[![dev-badge](https://img.shields.io/badge/dev.to-45496A?style=flat-square&logo=devdotto&logoColor=white 'Follow me on X')](https://www.twitter.com/in/alarwasyi98/)
-[![sof-badge](https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white 'Follow me on X')](https://www.twitter.com/in/alarwasyi98/)
+[![dev-badge](https://img.shields.io/badge/dev.to-45496A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/alarwasyi98)
+[![sof-badge](https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17326504/alarwasyi98)
 <!-- [![X-Badge](https://img.shields.io/badge/Twitter-00ADD8?style=flat-square&logo=x&logoColor=white&logoSize=small 'Follow me on X')](https://www.twitter.com/in/alarwasyi98/) -->
 
 A passionate teacher and self-taught web developer and digital world explorer. I love reading and learning new things, especially about Web Development and UI/UX Design, then applying them in my work.
