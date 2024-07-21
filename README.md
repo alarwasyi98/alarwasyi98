@@ -57,11 +57,21 @@ I believe in the power of education and technology to change lives and make the 
 ![Wordpress badge](https://img.shields.io/badge/WordPress-blue?style=flat-square&logo=wordpress&logoColor=white)
 ![Nginx badge](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx&logoColor=green)
 
-<!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d2014f958c39fd1f8043bc?variant=dark&roadmaps=frontend%2Cdesign-system)](https://roadmap.sh) -->
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,py,gitlab,github,git,bootstrap,tailwind,next,laravel,cloudflare,figma,mui,ai,ps&theme=dark&perline=9)](https://skillicons.dev) -->
 
+### Learning Hub
+
+[![Alibaba-Badge](https://img.shields.io/badge/Alibaba_Cloud-orange?style=flat-square&logo=alibabacloud&logoColor=white)](edu.alibabacloud.com)
+[![Codepolitan-Badge](https://img.shields.io/badge/Codepolitan-009988?style=flat-square&logo=codepen&logoColor=white)](codepolitan.com)
+[![BWA-Badge](https://img.shields.io/badge/Build_with_Angga-blue?style=flat-square&logo=blogger&logoColor=white)](buildwithangga.com)
+[![BWA-Badge](https://img.shields.io/badge/Rubrik_Grafis-darkblue?style=flat-square&logo=r&logoColor=white)](rubrikgrafis.com)
+
+<!-- ![image](https://alicloud-common.oss-ap-southeast-1.aliyuncs.com/2023/Developers/Certified-Developer.jpg) -->
+
 ![Contribution Strike](https://github-readme-streak-stats.herokuapp.com/?user=alarwasyi98&theme=transparent&hide_border=true&card-width=700)
+
+<!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d2014f958c39fd1f8043bc?variant=dark&roadmaps=frontend%2Cdesign-system)](https://roadmap.sh) -->
 
 > [!NOTE]
 > I'm always open to collaborating on interesting projects. If you have an idea or want to help newbie developers like me, feel free to reach out. Let's create something amazing together!
