@@ -1,11 +1,14 @@
 <!-- diable lint message -->
+![Header](/public/github-header-image.png)
+
 # Hi There <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi">, Folks! I'm Abdul Hakim
 
 <!-- ... -->
-**Teacher | Designer | Developer | Creativepreneur**
+
+**Teacher | Designer | Absolute Beginner**
 ...
 
-![State-Badge](https://img.shields.io/badge/state-newbs-blue?style=flat-square)
+![State-Badge](https://img.shields.io/badge/current_state-newbs-blue?style=flat-square)
 [![LinkedIn-Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white 'Contact me on LinkedIn')](https://www.linkedin.com/in/alarwasyi98/)
 [![dev-badge](https://img.shields.io/badge/dev.to-45496A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/alarwasyi98)
 [![sof-badge](https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17326504/alarwasyi98)
@@ -14,7 +17,9 @@
 A passionate teacher and self-taught web developer and digital world explorer. I love reading and learning new things, especially about Web Development and UI/UX Design, then applying them in my work.
 I believe in the power of education and technology to change lives and make the world a better place.
 
-## ⚡ Technical Skills
+---
+
+<!-- ## ⚡ Technical Skills
 
 ### Programming languages
 
@@ -59,20 +64,23 @@ I believe in the power of education and technology to change lives and make the 
 ![Wordpress badge](https://img.shields.io/badge/WordPress-blue?style=flat-square&logo=wordpress&logoColor=white)
 ![Nginx badge](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=Nginx&logoColor=green)
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,py,gitlab,github,git,bootstrap,tailwind,next,laravel,cloudflare,figma,mui,ai,ps&theme=dark&perline=9)](https://skillicons.dev) -->
 
 ### Learning Hub
+
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d2014f958c39fd1f8043bc?variant=dark&roadmaps=frontend%2Cdesign-system)](https://roadmap.sh)
+
+![Contribution Strike](https://github-readme-streak-stats.herokuapp.com/?user=alarwasyi98&theme=transparent&hide_border=true&card-width=700) -->
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,next,gitlab,github,bootstrap,tailwind,vue,powershell,bash,arch,figma,ai,ps&theme=dark&perline=9)](https://skillicons.dev)
 
 [![Alibaba-Badge](https://img.shields.io/badge/Alibaba_Cloud-orange?style=flat-square&logo=alibabacloud&logoColor=white)](edu.alibabacloud.com)
 [![Codepolitan-Badge](https://img.shields.io/badge/Codepolitan-009988?style=flat-square&logo=codepen&logoColor=white)](codepolitan.com)
 [![BWA-Badge](https://img.shields.io/badge/Build_with_Angga-blue?style=flat-square&logo=blogger&logoColor=white)](buildwithangga.com)
 [![BWA-Badge](https://img.shields.io/badge/Rubrik_Grafis-darkblue?style=flat-square&logo=r&logoColor=white)](rubrikgrafis.com)
+[![BWA-Badge](https://img.shields.io/badge/PZN-darkblue?style=flat-square&logo=glassdoor&logoColor=white)](rubrikgrafis.com)
 
-![Contribution Strike](https://github-readme-streak-stats.herokuapp.com/?user=alarwasyi98&theme=transparent&hide_border=true&card-width=700)
-
-<!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64d2014f958c39fd1f8043bc?variant=dark&roadmaps=frontend%2Cdesign-system)](https://roadmap.sh) -->
-
-> [!NOTE]
+> [!tip]
 > I'm always open to collaborating on interesting projects. If you have an idea or want to help newbie developers like me, feel free to reach out. Let's create something amazing together!
 
 <!-- ![image](https://alicloud-common.oss-ap-southeast-1.aliyuncs.com/2023/Developers/Certified-Developer.jpg) -->
