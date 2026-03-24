@@ -5,19 +5,16 @@
 
 <!-- ... -->
 
-**Teacher | Designer | Absolute Beginner**
-...
+#### Teacher | Designer | Absolute Beginner
 
 ![State-Badge](https://img.shields.io/badge/current_state-newbs-blue?style=flat-square)
-[![LinkedIn-Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white 'Contact me on LinkedIn')](https://www.linkedin.com/in/alarwasyi98/)
-[![dev-badge](https://img.shields.io/badge/dev.to-45496A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/alarwasyi98)
-[![sof-badge](https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17326504/alarwasyi98)
+[![LinkedIn-Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linear&logoColor=white 'Contact me on LinkedIn')](https://www.linkedin.com/in/alarwasyi98/)
+[![resume](https://img.shields.io/badge/Resume-FFFFFF?style=flat-square&logo=google-docs&logoColor=black 'Contact me on LinkedIn')](https://www.linkedin.com/in/alarwasyi98/)
+<!-- [![dev-badge](https://img.shields.io/badge/dev.to-45496A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/alarwasyi98)
+[![sof-badge](https://img.shields.io/badge/StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17326504/alarwasyi98) -->
 <!-- [![X-Badge](https://img.shields.io/badge/Twitter-00ADD8?style=flat-square&logo=x&logoColor=white&logoSize=small 'Follow me on X')](https://www.twitter.com/in/alarwasyi98/) -->
 
-A passionate teacher and self-taught web developer and digital world explorer. I love reading and learning new things, especially about Web Development and UI/UX Design, then applying them in my work.
-I believe in the power of education and technology to change lives and make the world a better place.
-
----
+A passionate teacher and self-taught web developer and digital world explorer. I love reading and learning new things, especially about Web Development and UI/UX Design, then applying them in my work. I believe in the power of education and technology to change lives and make the world a better place.
 
 <!-- ## ⚡ Technical Skills
 
@@ -72,13 +69,21 @@ I believe in the power of education and technology to change lives and make the 
 
 ![Contribution Strike](https://github-readme-streak-stats.herokuapp.com/?user=alarwasyi98&theme=transparent&hide_border=true&card-width=700) -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,next,gitlab,github,bootstrap,tailwind,vue,powershell,bash,arch,figma,ai,ps&theme=dark&perline=9)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,next,gitlab,github,bootstrap,tailwind,vue,powershell,bash,arch,figma,ai,ps&theme=dark&perline=9)](https://skillicons.dev) -->
 
-[![Alibaba-Badge](https://img.shields.io/badge/Alibaba_Cloud-orange?style=flat-square&logo=alibabacloud&logoColor=white)](edu.alibabacloud.com)
-[![Codepolitan-Badge](https://img.shields.io/badge/Codepolitan-009988?style=flat-square&logo=codepen&logoColor=white)](codepolitan.com)
-[![BWA-Badge](https://img.shields.io/badge/Build_with_Angga-blue?style=flat-square&logo=blogger&logoColor=white)](buildwithangga.com)
-[![BWA-Badge](https://img.shields.io/badge/Rubrik_Grafis-darkblue?style=flat-square&logo=r&logoColor=white)](rubrikgrafis.com)
-[![BWA-Badge](https://img.shields.io/badge/PZN-darkblue?style=flat-square&logo=glassdoor&logoColor=white)](rubrikgrafis.com)
+#### Learning Hub
+
+This journey wouldn't be possible without the support and generosity of these amazing platforms and communities:
+
+
+
+[![alibaba-badge](https://img.shields.io/badge/Alibaba_Cloud-orange?style=flat-square&logo=alibabacloud&logoColor=white)](edu.alibabacloud.com)
+[![codepolitan-badge](https://img.shields.io/badge/Codepolitan-009988?style=flat-square&logo=codecademy&logoColor=white)](codepolitan.com)
+[![bwa-Badge](https://img.shields.io/badge/Build_with_Angga-blue?style=flat-square&logo=blogger&logoColor=white)](buildwithangga.com)
+[![rubrik-grafis-badge](https://img.shields.io/badge/Rubrik_Grafis-darkblue?style=flat-square&logo=r&logoColor=white)](rubrikgrafis.com)
+[![pzn-badge](https://img.shields.io/badge/PZN-darkblue?style=flat-square&logo=glassdoor&logoColor=white)](rubrikgrafis.com)
+
+---
 
 > [!tip]
 > I'm always open to collaborating on interesting projects. If you have an idea or want to help newbie developers like me, feel free to reach out. Let's create something amazing together!
